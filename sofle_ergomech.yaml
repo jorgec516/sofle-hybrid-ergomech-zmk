@@ -134,7 +134,7 @@ layers:
     - ''
   - [EP TOG, RGB HUD, RGB HUI, RGB SAD, RGB SAI, RGB EFF, '', '', '', '', '', '']
   - ['', RGB BRD, RGB BRI, '', '', '', '', '', '', '', '', '']
-  - ['', '', '', '', '', '', '', '', '', '', '', '']
+  - [BT_CLR, BT_SEL, BT_NEXT, SPACE, ENTER '', '', '', '', '', '', '']
   - - RGB TOG
     - ''
     - ''
